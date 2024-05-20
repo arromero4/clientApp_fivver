@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077449355515",
+    "project_id": "hondamxmobile-t0u85x",
+    "storage_bucket": "hondamxmobile-t0u85x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077449355515:android:cf31b61752aa6f93ab005e",
+        "android_client_info": {
+          "package_name": "com.mycompany.hondamxmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhu0PCRuY6MbkHAuPSf9I7uGMCpn2v740"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
